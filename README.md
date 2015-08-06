@@ -45,7 +45,7 @@ See https://github.com/esp8266/Arduino for more information
 | TX or GPIO2   |          | RX              |
 | RX            |          | TX              |
 | GPIO0         |          | GND             |
-| Reset         |          | RTS*            |
+| Reset         |          | RTS or 3.3V     |
 | GPIO15        | PullDown |                 |
 | CH_PD         | PullUp   |                 |
 | GPIO14        | LED      |                 |
